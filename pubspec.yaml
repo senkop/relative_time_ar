@@ -1,0 +1,25 @@
+name: relative_time_ar
+description: "Relative time text like '5 minutes ago' in English and Arabic with correct Arabic plural forms, Arabic digits and a self-updating widget."
+version: 0.1.0
+homepage: https://github.com/senkop/relative_time_ar
+repository: https://github.com/senkop/relative_time_ar
+issue_tracker: https://github.com/senkop/relative_time_ar/issues
+topics:
+  - arabic
+  - time
+  - date
+  - localization
+  - intl
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter

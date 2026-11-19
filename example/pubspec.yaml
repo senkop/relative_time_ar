@@ -1,0 +1,18 @@
+name: relative_time_ar_example
+description: Demo app for the relative_time_ar package.
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  relative_time_ar:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
